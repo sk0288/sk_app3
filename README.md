@@ -1,1 +1,1 @@
-# flask-sk-app
+# sk-mnist-app
