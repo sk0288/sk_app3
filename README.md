@@ -1,4 +1,1 @@
-# sk-mnist-app
-# sk-mnist-app
-# sk-app
-# sk_app
+# sk_app3
